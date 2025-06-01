@@ -24,7 +24,7 @@ We used a **Linear Regression model** (`sklearn.linear_model.LinearRegression`) 
 
 ## Repository Structure
 
-
+```bash
    data/
    ├── kaggle_survey_2017.csv
    ├── ...
